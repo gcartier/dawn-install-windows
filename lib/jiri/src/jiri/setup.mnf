@@ -1,0 +1,5 @@
+(manifest jiri.setup
+
+  (version 207012)
+  (digest "defd83e3b70c6296465237002c1a69b53ffecd76")
+  (references))

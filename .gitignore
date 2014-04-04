@@ -1,0 +1,8 @@
+/build
+/.configuration
+/.gambcini
+/.repository
+*.c
+*.o
+*.dgs
+!/lib/jazz.editor.c

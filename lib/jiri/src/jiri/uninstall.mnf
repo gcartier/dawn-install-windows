@@ -1,0 +1,5 @@
+(manifest jiri.uninstall
+
+  (version 207012)
+  (digest "4b037cf098acf006737ea2882a5de9afc5e1ac3d")
+  (references))
