@@ -1,5 +1,5 @@
 (manifest jiri.structure
 
-  (version 207012)
+  (version 208002)
   (digest "ff4d5ac0d0dc18ca5c9a931ca34e1a4296a75dfe")
   (references))

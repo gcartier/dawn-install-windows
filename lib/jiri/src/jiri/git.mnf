@@ -1,5 +1,5 @@
 (manifest jiri.git
 
-  (version 207012)
-  (digest "4c84c3b321cea4ad27758ec87431480f57e119d2")
+  (version 208002)
+  (digest "27144af52e5bc912b57372ffab8ac65e29debb24")
   (references))

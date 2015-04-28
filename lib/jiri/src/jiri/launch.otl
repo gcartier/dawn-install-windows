@@ -1,4 +1,6 @@
 (unit jiri.launch
+  (require (jiri.windows))
+  (require (jiri.crash))
   (require (jiri.base))
-  (require (jiri.structure))
-  (require (jiri.work)))
+  (require (jiri.devel))
+  (require (jiri.structure)))

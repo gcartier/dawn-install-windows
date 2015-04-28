@@ -1,8 +1,10 @@
 (unit jiri.install
   (require (jiri.windows))
+  (require (jiri.crash))
   (require (jiri.git))
   (require (jiri.git-interface))
   (require (jiri.base))
+  (require (jiri.devel))
   (require (jiri.geometry))
   (require (jiri.color))
   (require (jiri.font))
