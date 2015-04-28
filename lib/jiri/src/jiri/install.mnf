@@ -1,5 +1,5 @@
 (manifest jiri.install
 
   (version 208002)
-  (digest "331ea5d1ba7943e33bd2af19772101aa3d5da767")
+  (digest "5f8f750335b3511fbd1769614a386b34782af7ee")
   (references))
